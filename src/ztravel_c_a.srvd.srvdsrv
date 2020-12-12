@@ -1,0 +1,5 @@
+@EndUserText.label: 'ZTRAVEL_C_A'
+@OData.schema.name: 'cds_xdmoxtravel_u'
+define service ZTRAVEL_C_A {
+ expose ZTRAVEL16676F5A9A; 
+ } 

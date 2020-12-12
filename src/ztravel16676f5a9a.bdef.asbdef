@@ -1,0 +1,7 @@
+ implementation abstract;
+ define behavior for ZTRAVEL16676F5A9A
+  {
+  create;
+ update;
+ delete;
+ }
